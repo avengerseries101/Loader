@@ -1,0 +1,2 @@
+rootProject.name='Loader Example'
+include ':app'
